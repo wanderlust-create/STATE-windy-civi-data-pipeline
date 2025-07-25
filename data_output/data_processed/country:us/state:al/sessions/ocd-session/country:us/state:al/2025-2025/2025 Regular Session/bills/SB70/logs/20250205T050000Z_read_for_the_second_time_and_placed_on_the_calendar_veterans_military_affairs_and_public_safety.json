@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read for the Second Time and placed on the Calendar (Veterans, Military Affairs and Public Safety)",
+    "date": "2025-02-05T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB70"
+}

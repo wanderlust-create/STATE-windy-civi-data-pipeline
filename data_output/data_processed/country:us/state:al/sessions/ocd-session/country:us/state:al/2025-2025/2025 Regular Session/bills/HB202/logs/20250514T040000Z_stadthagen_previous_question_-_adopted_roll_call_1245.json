@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Stadthagen Previous Question - Adopted Roll Call 1245",
+    "date": "2025-05-14T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB202"
+}

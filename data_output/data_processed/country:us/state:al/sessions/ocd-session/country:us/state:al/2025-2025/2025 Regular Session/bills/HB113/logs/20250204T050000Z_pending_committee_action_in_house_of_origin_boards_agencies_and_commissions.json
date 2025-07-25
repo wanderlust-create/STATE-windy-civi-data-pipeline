@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Pending Committee Action in House of Origin (Boards, Agencies and Commissions)",
+    "date": "2025-02-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB113"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Pending Committee Action in Second House (Fiscal Responsibility and Economic Development)",
+    "date": "2025-03-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB214"
+}

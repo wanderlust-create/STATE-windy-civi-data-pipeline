@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Delivered to Governor",
+    "date": "2025-04-24T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR227"
+}

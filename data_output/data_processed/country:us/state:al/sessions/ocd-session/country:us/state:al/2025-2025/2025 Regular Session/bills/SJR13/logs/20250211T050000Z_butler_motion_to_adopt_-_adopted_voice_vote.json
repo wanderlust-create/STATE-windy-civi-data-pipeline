@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Butler motion to Adopt - Adopted Voice Vote",
+    "date": "2025-02-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJR13"
+}

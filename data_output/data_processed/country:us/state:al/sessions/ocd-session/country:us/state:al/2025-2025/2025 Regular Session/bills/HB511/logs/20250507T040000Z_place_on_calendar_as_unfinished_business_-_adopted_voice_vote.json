@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Place on Calendar as Unfinished Business - Adopted Voice Vote",
+    "date": "2025-05-07T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB511"
+}

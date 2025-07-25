@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to Read a Third Time and Pass as Amended - Lost Roll Call 1243",
+    "date": "2025-05-14T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB82"
+}

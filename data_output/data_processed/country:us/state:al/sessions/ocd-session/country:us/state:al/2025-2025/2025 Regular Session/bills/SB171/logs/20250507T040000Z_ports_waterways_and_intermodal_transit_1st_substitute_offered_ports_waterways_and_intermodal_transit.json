@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ports, Waterways and Intermodal Transit 1st Substitute Offered (Ports, Waterways and Intermodal Transit)",
+    "date": "2025-05-07T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB171"
+}

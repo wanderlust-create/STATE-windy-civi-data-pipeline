@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Healthcare 1st Substitute Offered (Healthcare)",
+    "date": "2025-04-08T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB87"
+}

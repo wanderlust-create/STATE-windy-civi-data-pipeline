@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Education Policy 1st Amendment Offered (Education Policy)",
+    "date": "2025-02-27T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB140"
+}

@@ -1,0 +1,22 @@
+{
+  "2023s1": {
+    "name": "2023 First Special Session",
+    "date_folder": "2023-2023"
+  },
+  "2023s2": {
+    "name": "2023 Second Special Session",
+    "date_folder": "2023-2023"
+  },
+  "2023rs": {
+    "name": "2023 Regular Session",
+    "date_folder": "2023-2023"
+  },
+  "2024rs": {
+    "name": "2024 Regular Session",
+    "date_folder": "2024-2024"
+  },
+  "2025rs": {
+    "name": "2025 Regular Session",
+    "date_folder": "2025-2025"
+  }
+}

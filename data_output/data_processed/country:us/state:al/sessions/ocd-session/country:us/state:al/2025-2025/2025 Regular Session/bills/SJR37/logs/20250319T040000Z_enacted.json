@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enacted",
+    "date": "2025-03-19T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR37"
+}

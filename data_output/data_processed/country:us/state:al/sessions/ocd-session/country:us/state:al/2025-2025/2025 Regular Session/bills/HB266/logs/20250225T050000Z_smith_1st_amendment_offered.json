@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Smith 1st Amendment Offered",
+    "date": "2025-02-25T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB266"
+}

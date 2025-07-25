@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Joint Rule 11",
+    "date": "2025-05-01T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR329"
+}

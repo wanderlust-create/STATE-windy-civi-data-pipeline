@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read for the Second Time and placed on the Calendar (Health)",
+    "date": "2025-02-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB79"
+}

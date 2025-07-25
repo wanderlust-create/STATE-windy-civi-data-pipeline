@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read for the first time and referred to the Senate Committee on Local Legislation",
+    "date": "2025-03-04T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB301"
+}

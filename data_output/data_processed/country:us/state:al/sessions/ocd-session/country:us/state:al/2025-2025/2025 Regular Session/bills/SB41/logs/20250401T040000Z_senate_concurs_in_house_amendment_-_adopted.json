@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Concurs In House Amendment - Adopted",
+    "date": "2025-04-01T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB41"
+}

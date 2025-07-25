@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Public Safety and Homeland Security  Engrossed Substitute Offered (Public Safety and Homeland Security)",
+    "date": "2025-03-06T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB116"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read for the first time and referred to the House Committee on Local Legislation",
+    "date": "2025-04-01T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB486"
+}

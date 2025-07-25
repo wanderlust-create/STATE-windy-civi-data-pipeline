@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported from Rules (Rules)",
+    "date": "2025-04-22T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR255"
+}

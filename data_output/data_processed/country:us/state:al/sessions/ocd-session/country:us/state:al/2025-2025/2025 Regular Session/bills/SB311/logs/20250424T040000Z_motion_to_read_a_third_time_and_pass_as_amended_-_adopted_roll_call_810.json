@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 810",
+    "date": "2025-04-24T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB311"
+}

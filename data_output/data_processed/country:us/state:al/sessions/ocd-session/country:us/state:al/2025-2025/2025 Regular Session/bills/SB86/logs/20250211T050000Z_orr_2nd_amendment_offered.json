@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Orr 2nd Amendment Offered",
+    "date": "2025-02-11T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB86"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Veterans, Military Affairs and Public Safety 1st Amendment Offered (Veterans, Military Affairs and Public Safety)",
+    "date": "2025-03-18T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB200"
+}

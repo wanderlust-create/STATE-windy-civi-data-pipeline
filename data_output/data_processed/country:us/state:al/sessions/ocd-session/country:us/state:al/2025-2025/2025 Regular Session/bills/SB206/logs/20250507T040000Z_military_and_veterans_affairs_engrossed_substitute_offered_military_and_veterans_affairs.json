@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Military and Veterans' Affairs  Engrossed Substitute Offered (Military and Veterans' Affairs)",
+    "date": "2025-05-07T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB206"
+}

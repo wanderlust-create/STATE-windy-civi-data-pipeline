@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rafferty Concur In and Adopt - Adopted Roll Call 1011",
+    "date": "2025-04-24T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB128"
+}

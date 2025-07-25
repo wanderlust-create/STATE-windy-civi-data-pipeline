@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported Out of Committee Second House (Military and Veterans' Affairs)",
+    "date": "2025-04-16T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB206"
+}

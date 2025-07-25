@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 373",
+    "date": "2025-03-19T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB87"
+}

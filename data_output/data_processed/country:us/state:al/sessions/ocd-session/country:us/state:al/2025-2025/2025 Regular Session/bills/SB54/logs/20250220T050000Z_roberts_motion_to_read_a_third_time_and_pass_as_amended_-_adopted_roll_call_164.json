@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Roberts motion to Read a Third Time and Pass as Amended - Adopted Roll Call 164",
+    "date": "2025-02-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB54"
+}

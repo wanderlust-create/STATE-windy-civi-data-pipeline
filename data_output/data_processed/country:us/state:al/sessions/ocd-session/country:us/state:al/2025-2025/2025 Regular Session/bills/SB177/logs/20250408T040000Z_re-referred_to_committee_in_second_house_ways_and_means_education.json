@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-referred to Committee in Second House (Ways and Means Education)",
+    "date": "2025-04-08T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB177"
+}

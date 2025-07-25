@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enacted",
+    "date": "2025-05-14T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB338"
+}
